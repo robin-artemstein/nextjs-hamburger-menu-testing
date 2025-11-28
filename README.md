@@ -26,7 +26,7 @@ git init
 git add .
 git commit -m "Nth commit on date."
 git branch -M main
-git remote add origin git@github.com:robin-artemstein/nextjs-hamburger-menu-testing.git
 git remote rm origin
+git remote add origin git@github.com:robin-artemstein/nextjs-hamburger-menu-testing.git
 git push -u -f origin main
 ```
